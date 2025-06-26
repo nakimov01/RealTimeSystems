@@ -5,8 +5,6 @@
 ### 1. Disk_Space_Monitoring_Email_Reports
 **Мониторинг свободного места на диске с отправкой email отчетов**
 
-- **Приложение:** `DiskMonitorApp`
-- **Пространство имен:** `DiskMonitorApp`
 - **Функции:**
   - Использование WinAPI функции `GetDiskFreeSpaceEx`
   - SMTP-клиент для отправки отчетов через Gmail
