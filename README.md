@@ -56,7 +56,7 @@
 - .NET Framework 4.7.2 или выше
 - Windows 10/11
 
-## Структура проекта
+## Структура
 
 ```
 ├── Disk_Space_Monitoring_Email_Reports/
